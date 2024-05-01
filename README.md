@@ -14,7 +14,7 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ##  GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizali112&show_icons=true&theme=radical)
 <!--
 **Faizali112/Faizali112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
