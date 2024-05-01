@@ -1,7 +1,11 @@
 ### Hi there 👋
 # MY NAME IS FAIZ ALI ! 👋
 
-I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
+📊 Aspiring Data Scientist | 🤖 AI Enthusiast | 🎓 College Student
+
+👋 Hey there! I'm on a journey to delve deep into the realms of data science and artificial intelligence. Currently pursuing my academic endeavors in college while passionately exploring the fascinating world of data-driven insights and cutting-edge AI technologies.
+
+🔍 Seeking to expand my knowledge and skills in data science, machine learning, and AI through hands-on projects, courses, and collaborative learning experiences.
 
 ##  I’m currently working on
 
