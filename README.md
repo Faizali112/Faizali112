@@ -1,5 +1,5 @@
 ### Hi there 👋
-# MY NAME IS FAIZ ALI ! 👋
+# My name is Faiz Ali ! 👋
 
 📊 Aspiring Data Scientist | 🤖 AI Enthusiast | 🎓 College Student
 
