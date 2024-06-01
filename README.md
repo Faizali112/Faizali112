@@ -1,7 +1,7 @@
 ### Hi there 👋
 # My name is Faiz Ali ! 👋
 
-📊 Aspiring Data Scientist | 🤖 AI Enthusiast | 🎓 College Student
+📊 Aspiring Data Scientist | 🤖 AI Enthusiast | 🎓 College Student  
 
 👋 Hey there! I'm on a journey to delve deep into the realms of data science and artificial intelligence. Currently pursuing my academic endeavors in college while passionately exploring the fascinating world of data-driven insights and cutting-edge AI technologies.
 
