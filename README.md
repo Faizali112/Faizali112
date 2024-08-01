@@ -10,7 +10,7 @@ I'm a student, passionate about learning new programming languages and tools. We
 </p>
 <div align="center">
   -E-mail : faizali77479@gmail.com <br>
-  -<a href="https://www.linkedin.com/in/faiz-ali-173101260">LinkedIn Profile </a> <br>
+  -<a href="https://www.linkedin.com/in/faiz-ali-173101260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile </a> <br>
 </div>
 
 
