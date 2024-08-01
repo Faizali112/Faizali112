@@ -5,14 +5,12 @@
 I'm a student, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
 </p>
 <hr>
-
-<hr>
 <p align="center">
    <h3>How to reach me</h3>
 </p>
 <div align="center">
   -E-mail : faizali77479@gmail.com <br>
-  -<a href="www.linkedin.com/in/faiz-ali-173101260">LinkedIn Profile </a> <br>
+  -<a href="https://www.linkedin.com/in/faiz-ali-173101260">LinkedIn Profile </a> <br>
 </div>
 
 
