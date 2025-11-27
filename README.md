@@ -1,5 +1,5 @@
 #
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ my+name+is+Faiz+Ali!" align="middle" <h1 align="center">Hi 👋, I'm Faiz Ali</h1>
+<h1 align="center">Hi 👋, I'm Faiz Ali</h1>
 
 <p align="center">
 I'm a student, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
