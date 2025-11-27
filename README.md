@@ -1,4 +1,3 @@
-#
 <h1 align="center">Hi 👋, I'm Faiz Ali</h1>
 
 <p align="center">
