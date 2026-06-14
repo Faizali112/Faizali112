@@ -19,11 +19,7 @@ I'm a student, passionate about learning new programming languages and tools. We
 <hr>
 
 # 📊 GitHub Stats:
-<div align="center">
-   
-![](https://github-readme-stats.vercel.app/api?username=Faizali112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<div align="center">
-   
+
    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizali112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
