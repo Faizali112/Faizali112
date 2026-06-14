@@ -29,14 +29,5 @@ I'm a student, passionate about learning new programming languages and tools. We
 
 <hr>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Faizali112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<hr>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Faizali112&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Faizali112&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
