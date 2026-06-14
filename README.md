@@ -28,6 +28,7 @@ I'm a student, passionate about learning new programming languages and tools. We
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizali112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
+![Visitors](https://komarev.com/ghpvc/?username=Faizali112&color=blue-violet&style=flat-square)
 
 
 
