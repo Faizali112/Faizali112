@@ -29,6 +29,6 @@ I'm a student, passionate about learning new programming languages and tools. We
 
 <hr>
 
-![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FFaizali112%2FFaizali112.json&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=Faizali112&color=blue&style=flat-square)
 
 
