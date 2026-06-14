@@ -29,7 +29,9 @@ I'm a student, passionate about learning new programming languages and tools. We
 
 <hr>
 
-<img src="https://profile-counter.glitch.me/Faizali112/count.svg" alt="Visitor Count" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizali112&color=blue-violet&style=flat-square" alt="Visitors">
+</p>
 
 
 
