@@ -29,9 +29,6 @@ I'm a student, passionate about learning new programming languages and tools. We
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizali112&color=blue-violet&style=flat-square" alt="Visitors">
-</p>
-
+![Visitors](https://komarev.com/ghpvc/?username=Faizali112&color=8a2be2&style=flat-square)
 
 
